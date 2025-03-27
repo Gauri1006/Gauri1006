@@ -1,3 +1,5 @@
+![logo](https://github.com/Gauri1006/Gauri1006/blob/main/github-header-image%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Gauri Katiyar</h1>
 <h3 align="center">I am First year B.TECH CSE core. I am a frontend learner. Exploring coding & development.</h3>
 
