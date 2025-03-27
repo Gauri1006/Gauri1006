@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Gauri Katiyar</h1>
 <h3 align="center">I am First year B.TECH CSE core. I am a frontend learner. Exploring coding & development.</h3>
 
+<img align="right" alt="coding" width=300 border-radius=10 src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauri1006&label=Profile%20views&color=0e75b6&style=flat" alt="gauri1006" /> </p>
 
 - 🔭 I’m currently working on **Disaster Management**
