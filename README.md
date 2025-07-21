@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack**
 
-- 💬 Ask me about **Python , C ++**
+- 💬 Ask me about **Python , C ++ , Java Script**
 
 - 📫 How to reach me **gaurikatiyar809@gmail.com**
 
