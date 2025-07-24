@@ -44,13 +44,13 @@
   A pastel-styled interactive Tic Tac Toe with theme switching, animations, sounds .  
   👉 [GitHub Repo](https://github.com/Gauri1006/PRODIGY_WD_03)
 
-- ⏱️ **Cute Stopwatch Web App (PRODIGY_WD_02)**  
+- ⏱️ ** Stopwatch Web App (PRODIGY_WD_02)**  
   Fun, visually engaging stopwatch with lap feature.  
   👉 [GitHub Repo](https://github.com/Gauri1006/PRODIGY_WD_02)
 
-- 🧶 **Tiny Tykes Clay Workshop Website (PRODIGY_WD_01)**  
+- 🧶 **Responsive Landing Page (PRODIGY_WD_01)**  
   A pastel-themed landing page for a clay workshop featuring countdown, gallery, AOS, and more.  
-  👉 [GitHub Repo](https://github.com/Gauri1006/tiny-tykes-clay-workshop)
+  👉 https://github.com/Gauri1006/PRODIGY_WD_01-
 
 ---
 
