@@ -60,7 +60,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauri1006&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauri1006&" alt="GitHub Streak" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=gauri1006&theme=soft-green&hide_border=false" alt="gauri1006" /></p>
+
 
 ---
 
