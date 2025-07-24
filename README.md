@@ -50,7 +50,7 @@
 
 - 🧶 **Responsive Landing Page (PRODIGY_WD_01)**  
   A pastel-themed landing page for a clay workshop featuring countdown, gallery, AOS, and more.  
-  👉 https://github.com/Gauri1006/PRODIGY_WD_01-
+  👉 https://github.com/Gauri1006/PRODIGY_WD_01
 
 ---
 
