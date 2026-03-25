@@ -39,7 +39,7 @@
 
 <h3 align="left">🚀 Recent Projects:</h3>
 
-- 🎮 **Vision-based-Smart-Warehouse-Inventory-Monitoring-System **  
+- 🎮 **Vision-based-Smart-Warehouse-Inventory-Monitoring-System**  
   An AI-powered system that uses computer vision to automatically track, monitor, and manage warehouse inventory in real time, improving accuracy      and efficiency.  
   👉 [GitHub Repo](https://github.com/Gauri1006/smart-warehouse-system)
 
