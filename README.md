@@ -39,9 +39,9 @@
 
 <h3 align="left">🚀 Recent Projects:</h3>
 
-- 🎮 **Vision-based-Smart-Warehouse-Inventory-Monitoring-System (Team-Project)**  
+- 🎮 **Vision-based-Smart-Warehouse-Inventory-Monitoring-System **  
   An AI-powered system that uses computer vision to automatically track, monitor, and manage warehouse inventory in real time, improving accuracy      and efficiency.  
-  👉 [GitHub Repo](https://github.com/MindMatrix2026/Vision-based-Smart-Warehouse-Inventory-Monitoring-System)
+  👉 [GitHub Repo](https://github.com/Gauri1006/smart-warehouse-system)
 
 - ⏱️ ** Stopwatch Web App (PRODIGY_WD_02)**  
   Fun, visually engaging stopwatch with lap feature.  
