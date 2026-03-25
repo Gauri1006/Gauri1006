@@ -7,10 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauri1006&label=Profile%20views&color=0e75b6&style=flat" alt="gauri1006" /> </p>
 
-- 🔭 I’m currently working on **Creative Web Projects & Portfolio Development**
+- 🔭 I’m currently working on **Smart Inventory Management System**
 - 🌱 I’m currently learning **Full Stack Development & DSA**
-- 👩‍💻 I’m interning at **Prodigy InfoTech (Web Development Domain)**
-- 💬 Ask me about **Python, C++, JavaScript, HTML, CSS, Java**
+- 💬 Ask me about **Python, C++, JavaScript, HTML, CSS, Java, React**
 - 📫 Reach me at **gaurikatiyar809@gmail.com**
 
 ---
