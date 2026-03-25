@@ -39,9 +39,9 @@
 
 <h3 align="left">🚀 Recent Projects:</h3>
 
-- 🎮 **Animated Themed Tic Tac Toe (PRODIGY_WD_03)**  
-  A pastel-styled interactive Tic Tac Toe with theme switching, animations, sounds .  
-  👉 [GitHub Repo](https://github.com/Gauri1006/PRODIGY_WD_03)
+- 🎮 **Vision-based-Smart-Warehouse-Inventory-Monitoring-System (Team-Project)**  
+  An AI-powered system that uses computer vision to automatically track, monitor, and manage warehouse inventory in real time, improving accuracy      and efficiency.  
+  👉 [GitHub Repo](https://github.com/MindMatrix2026/Vision-based-Smart-Warehouse-Inventory-Monitoring-System)
 
 - ⏱️ ** Stopwatch Web App (PRODIGY_WD_02)**  
   Fun, visually engaging stopwatch with lap feature.  
